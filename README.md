@@ -2,9 +2,7 @@
 
 Hello this is my dummy portfolio
 
-##
-
-Work experience 
+## Work experience 
 
 ###
 
