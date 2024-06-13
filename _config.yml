@@ -1,1 +1,5 @@
-
+title: BSc Data Science Student
+#logo: /assets/img/headshot_circle.png
+description: Test image
+show_downloads: true
+theme: jekyll-remote-theme
